@@ -2,6 +2,7 @@ class ParkingSpot {
     String licensePlate;
     long entryTime;
     boolean occupied;
+
 }
 
 class ParkingLot {
